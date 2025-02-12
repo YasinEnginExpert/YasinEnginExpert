@@ -26,7 +26,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&theme=dark)  
 
 ## 📫 Connect with Me  
-- **LinkedIn:** (https://www.linkedin.com/in/yasin-engin%F0%9F%9B%9C-696890289/)  
+- **LinkedIn:** (https://www.linkedin.com/in/yasin-engin%F0%9F%9B%9C-696890289/) 
+-**Yotube:**(https://www.youtube.com/@Yasin_Engin)
+
 
 ---
 🔍 *Always open to learning new technologies and collaborating on networking & cybersecurity projects!*  
