@@ -27,7 +27,7 @@
 
 ## 📫 Connect with Me  
 - **LinkedIn:** (https://www.linkedin.com/in/yasin-engin%F0%9F%9B%9C-696890289/) 
--**Yotube:**(https://www.youtube.com/@Yasin_Engin)
+- **Yotube:**(https://www.youtube.com/@Yasin_Engin)
 
 
 ---
