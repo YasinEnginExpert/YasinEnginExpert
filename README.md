@@ -14,12 +14,11 @@
 - **Cybersecurity:** SOC Monitoring, SIEM Analysis, Threat Detection  
 - **Wireless Networking:** CWNA-Level Wi-Fi Security, Wireless Protocols, RF Analysis  
 - **Programming:** Python (Network Automation, Cybersecurity, Scripting)  
-- **Tools & Technologies:** Wireshark, Nmap, Cisco Packet Tracer, EVE-NG, Fortinet  
+- **Tools & Technologies:** Wireshark, Nmap, Cisco Packet Tracer, EVE-NG   
 
 ## 💡 What I'm Working On  
 🔹 Enhancing my **Network Engineering** and **Wireless Security** expertise  
 🔹 Exploring **Network Automation with Python**  
-🔹 Engaging in **Capture The Flag (CTF) and Cybersecurity Challenges**  
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasinEnginExpert&show_icons=true&theme=radical)
@@ -27,7 +26,7 @@
 
 ## 📫 Connect with Me  
 - **LinkedIn:** (https://www.linkedin.com/in/yasin-engin%F0%9F%9B%9C-696890289/) 
-- **Yotube:**(https://www.youtube.com/@Yasin_Engin)
+- **Yotube:**([https://www.youtube.com/@Yasin_Engin](https://www.youtube.com/@Netreka_Akademi))
 
 
 ---
