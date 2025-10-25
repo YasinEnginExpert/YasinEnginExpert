@@ -4,7 +4,7 @@
 
 ## 🔹 About Me  
 - 🛡️ **SOC L1 Cybersecurity Professional**  
-- 🌐 **CCNA-Level Network Knowledge**  
+- 🌐 **CCNP-Level Network Knowledge**  
 - 📡 **CWNA-Level Wireless Communication Expertise**  
 - 🖥️ **Aspiring Network Engineer**  
 - 🐍 **Python Enthusiast for Automation & Security**  
