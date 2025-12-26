@@ -55,13 +55,17 @@ I aim to design, secure, and operate scalable network infrastructures while cont
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasinEnginExpert&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=graywhite)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&langs_count=6&hide=html,css&theme=graywhite)
-
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YasinEnginExpert&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&theme=github_dark&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&langs_count=6&hide=html,css&theme=github_dark&cache_seconds=86400"
+    alt="Top Languages"
+  />
+</p>
 
 ## Contact & Links
 
