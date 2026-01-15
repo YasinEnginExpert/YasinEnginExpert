@@ -4,46 +4,43 @@
 
 ---
 
-## About Me
+## Technical Profile
 
-I am a **SOC L1 Cybersecurity Professional** with a strong foundation in **enterprise networking and wireless technologies**. My primary focus is on designing, securing, and operating scalable network infrastructures.
+I am a **SOC L1 Cybersecurity Professional** with a specialized focus on **enterprise networking** and **wireless technologies**. My expertise lies in designing, securing, and maintaining robust network infrastructures through a combination of engineering principles and automated monitoring.
 
-- **SOC L1 Operations**: SIEM monitoring, threat detection, and incident triage.
-- **Wireless Engineering**: CWNA-level knowledge in RF fundamentals and Wi-Fi security.
-- **Network Automation**: Leveraging Python to streamline operations and enhance efficiency.
+- **Security Operations**: Experienced in SOC L1 triage, SIEM monitoring, and incident response.
+- **Wireless Engineering**: proficient in CWNA-level RF fundamentals, wireless security protocols, and site survey concepts.
+- **Network Automation**: Utilizing Python and scripting to automate repetitive configuration and monitoring tasks.
 
 ---
 
-## Technical Expertise
+## Core Competencies
 
-| Domain | Skills & Tools |
+| Domain | Skills and Tools |
 | :--- | :--- |
-| **Networking** | CCNP R&S, TCP/IP, VLANs, Inter-VLAN Routing, Cisco IOS |
-| **Cybersecurity** | SOC Operations, SIEM, Wireshark, Nmap, Incident Triage |
-| **Wireless** | CWNA, RF Analysis, WPA2/WPA3, Link Budgets, QoS |
-| **Automation** | Python (Netmiko, Napalm), Bash, YAML, Linux Networking |
-| **Labs & Tools** | EVE-NG, Cisco Packet Tracer, Linux (Ubuntu/Kali) |
+| **Networking** | CCNP R&S, TCP/IP, VLAN Segmentation, OSPF/BGP, Cisco IOS Configuration |
+| **Cybersecurity** | SOC Operations, SIEM Analysis, Wireshark Packet Inspection, Nmap Scanning |
+| **Wireless** | WiFi Security (WPA2/3), RF Analysis, CWNA Standards, Wireless LAN Controllers |
+| **Automation** | Python Scripting, Netmiko, REST APIs, YAML, Bash Scripting |
+| **Environment** | Linux (Ubuntu/Kali), EVE-NG, Cisco Packet Tracer, VMware Workstation |
 
 ---
 
-## GitHub Analytics
+## Development and Language Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasinEnginExpert&show_icons=true&theme=nord&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&theme=nord&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YasinEnginExpert&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Statistics" />
 
 </div>
 
 ---
 
-## Activity and Focus
-
-![Metrics](https://metrics.lecoq.io/YasinEnginExpert?template=classic&activity=1&languages=1&repositories=1&config.timezone=Europe/Istanbul)
-
----
-
-## Contact and Links
+## Professional Links
 
 <div align="left">
 
@@ -54,4 +51,4 @@ I am a **SOC L1 Cybersecurity Professional** with a strong foundation in **enter
 
 ---
 
-*Open to collaboration, learning opportunities, and professional growth in networking and cybersecurity.*
+*Available for professional collaboration and growth opportunities in the fields of Network Engineering and Cybersecurity.*
