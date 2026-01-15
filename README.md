@@ -26,19 +26,6 @@ I am a **SOC L1 Cybersecurity Professional** with a specialized focus on **enter
 
 ---
 
-## Development and Language Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YasinEnginExpert&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Statistics" />
-
-</div>
-
----
 
 ## Professional Links
 
