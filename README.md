@@ -15,14 +15,6 @@ I build tooling and systems that make networks easier to operate: automation wor
 - **Go services** (REST/gRPC, auth patterns, distributed logging)
 - **Distributed systems practice** (fault tolerance, coordination, persistence)
 
-> Currently seeking a **Summer 2026–2027 Erasmus internship**.
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&icon_color=00ADD8&title_color=00ADD8)](https://github.com/YasinEnginExpert)
-
-<br/>
-
 </div>
 
 ---
@@ -98,13 +90,6 @@ I build tooling and systems that make networks easier to operate: automation wor
 
 <br/>
 
-<br/>
-
-[![Grimoire.re](https://grimoire.re/api/v2/users/YasinEnginExpert/chart?theme=dark)](https://grimoire.re/api/v2/users/YasinEnginExpert/chart?theme=dark)
-
-<br/>
-
-> **Open to Summer 2026–2027 Erasmus traineeship**  
 > *Network Automation / Backend Engineering / DevOps*
 
 </div>
