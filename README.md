@@ -1,41 +1,110 @@
+<div align="center">
+
 # Yasin Engin
 
-### Network & Wireless Engineering | Cybersecurity | Automation
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+(OM%C3%9C);SDN+%26+Network+Automation;Go+Backend+%26+Distributed+Systems;Building+Production-Grade+Software)](https://git.io/typing-svg)
 
----
+<br/>
 
-## Technical Profile
+I’m **Yasin Engin**, a Computer Engineering student with a strong networking background (**CCNA**) and a focus on **SDN and network automation**.
 
-I am a **SOC L1 Cybersecurity Professional** with a specialized focus on **enterprise networking** and **wireless technologies**. My expertise lies in designing, securing, and maintaining robust network infrastructures through a combination of engineering principles and automated monitoring.
+I build tooling and systems that make networks easier to operate: automation workflows, API-driven services, and distributed components for logging/monitoring. Most of my projects are implemented in **Go**, using **gRPC**, message brokers, and containerized deployments.
 
-- **Security Operations**: Experienced in SOC L1 triage, SIEM monitoring, and incident response.
-- **Wireless Engineering**: proficient in CWNA-level RF fundamentals, wireless security protocols, and site survey concepts.
-- **Network Automation**: Utilizing Python and scripting to automate repetitive configuration and monitoring tasks.
+**This profile is a collection of:**
+- **Network Automation** experiments (labs, reproducible setups)
+- **Go services** (REST/gRPC, auth patterns, distributed logging)
+- **Distributed systems practice** (fault tolerance, coordination, persistence)
 
----
+> Currently seeking a **Summer 2026–2027 Erasmus internship**.
 
-## Core Competencies
+<br/>
 
-| Domain | Skills and Tools |
-| :--- | :--- |
-| **Networking** | CCNP R&S, TCP/IP, VLAN Segmentation, OSPF/BGP, Cisco IOS Configuration |
-| **Cybersecurity** | SOC Operations, SIEM Analysis, Wireshark Packet Inspection, Nmap Scanning |
-| **Wireless** | WiFi Security (WPA2/3), RF Analysis, CWNA Standards, Wireless LAN Controllers |
-| **Automation** | Python Scripting, Netmiko, REST APIs, YAML, Bash Scripting |
-| **Environment** | Linux (Ubuntu/Kali), EVE-NG, Cisco Packet Tracer, VMware Workstation |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinEnginExpert&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&icon_color=00ADD8&title_color=00ADD8)](https://github.com/YasinEnginExpert)
 
----
-
-
-## Professional Links
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-engin-696890289/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Netreka_Akademi)
+<br/>
 
 </div>
 
 ---
 
-*Available for professional collaboration and growth opportunities in the fields of Network Engineering and Cybersecurity.*
+## Focus Areas
+
+| Network Automation & SDN | Backend Engineering | Distributed Systems |
+|:---:|:---:|:---:|
+| Labs, tooling, model-driven mindset | Go (REST APIs, gRPC, microservices) | Fault tolerance, replication, observability |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**  
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+
+**Backend & Systems**  
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+**Databases**  
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+**Networking**  
+<img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### [Netreka-Nexus (Microservices Hub)](https://github.com/YasinEnginExpert/Netreka-Nexus)
+> *Go microservices reference architecture.*
+- **Tech Stack**: Docker Swarm, RabbitMQ, gRPC, Caddy gateway, Postgres + Mongo.
+
+### [Tolerex (Distributed Fault-Tolerant Storage)](https://github.com/YasinEnginExpert/Tolerex)
+> *Leader–Member design for distributed storage.*
+- **Tech Stack**: gRPC + mTLS, heartbeat failure detection, disk persistence, metrics/logging.
+
+### [REST-API (Network Inventory / Management)](https://github.com/YasinEnginExpert/REST-API)
+> *Enterprise-style API with auth/RBAC concepts.*
+- **Tech Stack**: Database layer, Dockerized workflow.
+
+### [my-ansible-lab](https://github.com/YasinEnginExpert/my-ansible-lab)
+> *Network automation labs for repeatable network testing.*
+- **Tech Stack**: Containerlab, Ansible.
+
+<!-- Repositories are pinned on my profile for quick access. -->
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yasin-engin/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.youtube.com/@Netreka_Akademi">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://github.com/YasinEnginExpert">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br/>
+
+<br/>
+
+[![Grimoire.re](https://grimoire.re/api/v2/users/YasinEnginExpert/chart?theme=dark)](https://grimoire.re/api/v2/users/YasinEnginExpert/chart?theme=dark)
+
+<br/>
+
+> **Open to Summer 2026–2027 Erasmus traineeship**  
+> *Network Automation / Backend Engineering / DevOps*
+
+</div>
